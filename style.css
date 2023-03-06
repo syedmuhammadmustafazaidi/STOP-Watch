@@ -1,0 +1,51 @@
+body{
+background-color: rgb(1, 122, 126);
+background-image: url('');
+
+}
+
+.main{
+color: red;
+background-color: rgb(0, 0, 0);
+width: 50%;
+height: 90%;
+margin: 100px auto;
+border: 10px solid yellow;
+border-radius: 20px;
+}
+
+
+#btn{
+ background-color: rgb(0, 0, 0); 
+ }
+.headi{
+color: red;
+background-color: rgb(159, 226, 221);
+border: 3px solid  rgb(0, 0, 0);
+width: 50%;
+display: flex;
+text-align: center;
+}
+ 
+.btn2{
+
+    background-color: rgb(0, 0, 0); 
+
+
+}
+
+
+.btn3{
+
+    background-color: rgb(0, 0, 0); 
+
+
+}
+
+.numbers{
+display: contents;
+text-shadow: 2px 4px 6px rgb(72, 59, 247) ;  
+
+ font-family: 'Courier New', Courier, monospace;
+
+}
